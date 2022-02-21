@@ -4,17 +4,7 @@
 
 ## Инструкция по установке и настройке
 
-Для установки скрипта скопируйте следующие файлы в одну папку:
-
-- find_similar.py
-- hello_api_TMDB.py
-- make_own_db.py
-- own_db_helpers.py
-- search_in_db.py
-- tmdb_helpers.py
-- requirements.txt
-
-Затем перейдите в терминале в данную папку и запустите команду:
+Для установки скрипта запустите команду:
 
 ```
 pip install -r requirements.txt
